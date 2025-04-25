@@ -14,6 +14,6 @@ This project focuses on detecting fraudulent credit card transactions using supe
 - XGBoost, LightGBM
 - Matplotlib, Seaborn
 
-The goal of this project was to gain hands-on experience applying machine learning to a real-world problem. It provided me with valuable practice in building, evaluating, and interpreting models for rare-event detection.
+The purpose of this project was to gain hands-on experience applying machine learning to a real-world problem. It provided me with valuable practice in building, evaluating, and interpreting models for rare-event detection.
 
 [Link to the dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data])
